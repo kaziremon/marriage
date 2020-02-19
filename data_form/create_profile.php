@@ -338,7 +338,7 @@
 				<input type="checkbox" class="privacy" name="checked" checked>
 				<span class="privacy2"><a href="">I agree terms and condition</a></span>
 			</div>
-			<a class="btn btn-success button button_link" href="partner.php" >Create Your Profile</a>
+			<a class="btn btn-success button button_link" href="partner.php" >NEXT</a>
 		</form>
 	</div>
 

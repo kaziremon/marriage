@@ -154,6 +154,9 @@
 	font-size: 12px;
 }
 .button_link{
-	margin-left: 75%;
     margin-top: 26px;
+    font-size: 20px;
+    padding: 8px 30px;
+    float: right;
+    margin-right: 11%;
 }
