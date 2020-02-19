@@ -1,32 +1,123 @@
 
-label{
-	margin-left: 10%;
-}
+
 .heading_right{
 	margin-top: 17px;
 	color: #7F7F7F;
-	float: right;
+	font-family: arial;
 	
 }
 .heading_right_text{
 	font-size: 11px;
+	font-family: arial;
 }
 .pertner_text{
 	font-weight: 700;
 	color: #7F7F7F;
-	margin-left: 15%;
+	margin-left: 22%;
+	font-family: arial;
 }
-.name{
-	width: 45%;
+.pertner_mid1{
+	font-weight: 700;
+	color: #7F7F7F;
+	margin-left: 157px;
+
 }
-.name2{
-	width: 45%;
-    margin-top: -38px;
-    margin-left: 55%;
+.pertner_mid2{
+	font-weight: 700;
+	color: #7F7F7F;
+	margin-left: 224px;
+}
+.pertner_mid3{
+	font-weight: 700;
+	color: #7F7F7F;
+	margin-left: 244px;
+}
+.pertner_mid4{
+	font-weight: 700;
+	color: #7F7F7F;
+	margin-left: 211px;
+}
+.pertner_mid5{
+	font-weight: 700;
+	color: #7F7F7F;
+	margin-left: 244px;
+}
+.pertner_mid6{
+	font-weight: 700;
+	color: #7F7F7F;
+	margin-left: 171px;
+}
+.pertner_mid7{
+	font-weight: 700;
+	color: #7F7F7F;
+	margin-left: 157px;
+}
+.pertner_mid8{
+	font-weight: 700;
+	color: #7F7F7F;
+	margin-left: 184px;
+}
+.pertner_mid9{
+	font-weight: 700;
+	color: #7F7F7F;
+	margin-left: 196px;
+}
+.pertner_mid10{
+	font-weight: 700;
+	color: #7F7F7F;
+	margin-left: 199px;
+}
+.pertner_mid11{
+	font-weight: 700;
+	color: #7F7F7F;
+	margin-left: 194px;
+}
+.partner_end{
+	margin-left: 3%;
+}
+.status2{
+	margin-left: 51px;
+}
+.status3{
+	margin-left: 576px;
+}
+.status4{
+	margin-left: 31px;
+}
+.Cradio2{
+	margin-left: 72px;
+}
+.Cradio3{
+	margin-left: 578px;
+}
+.Cradio4{
+	margin-left: 46px;
+}
+.bradio2{
+	margin-left: 50px;
+}
+.bradio3{
+	margin-left: 578px;
+}
+.bradio4{
+	margin-left: 75px;
 }
 .gender{
-	margin-left: 30px;
+	margin-left: 3%;
 }
 .gender2{
-	margin-left: 10px;
+	margin-left: 5%;
+}
+.partner_input{
+	height: 30px;
+    width: 10%;
+}
+.partner_input2{
+	height: 30px;
+    width: 22%;
+}
+.pertner-button{
+	margin-left: 60%;
+    font-family: arial;
+    margin-top: 40px;
 }
